@@ -909,7 +909,7 @@ function createButtonRow2() {
     backButton2.className = "linkedin-button";
     backButton2.innerHTML = '<i class="fa-brands fa-linkedin"></i>Linkedin';
     backButton2.addEventListener('click', () => {
-        window.open('https://in.linkedin.com/in/adityagupta-profile', '_blank');
+        window.open('https://www.linkedin.com/in/reddy-sai-chandan-851102300/', '_blank');
     });
     rowDiv1.appendChild(backButton2);
 
@@ -1249,7 +1249,7 @@ function createButtonRow1() {
     backButton2.className = "linkedin-button";
     backButton2.innerHTML = '<i class="fa-brands fa-linkedin"></i>Linkedin';
     backButton2.addEventListener('click', () => {
-        window.open('https://in.linkedin.com/in/adityagupta-profile', '_blank');
+        window.open('https://www.linkedin.com/in/reddy-sai-chandan-851102300/', '_blank');
     });
     rowDiv1.appendChild(backButton2);
 
